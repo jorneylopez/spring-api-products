@@ -1,7 +1,5 @@
 # Spring API
 
-
-
 ## End-Points
 
 ### `http://localhost:8080/productos`
